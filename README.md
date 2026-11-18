@@ -8,9 +8,9 @@
 
 # ¿Qué hace el programa?
 
-Este programa es una aplicación de consola desarrollada en **C#** orientada a objetos para la gestión del inventario de la tienda "TecnoPunto".
+Este programa es una aplicación desarrollada en C#, basada en el paradigma de programación orientada a objetos, destinada a la gestión del inventario de la tienda «TecnoPunto».
 
-Dicho programa permite registrar productos de una tienda en una aplicación de consola, gestionando sus datos esenciales, validando información incorrecta y calculando automáticamente el valor total en existencia de cada producto.
+Permite registrar productos, administrar sus datos esenciales, validar la información ingresada y calcular automáticamente el valor total en existencia de cada producto, garantizando así un manejo adecuado y confiable de los registros.
 
 
 # Datos de entrada: 
