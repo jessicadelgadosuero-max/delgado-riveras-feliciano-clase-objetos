@@ -49,7 +49,9 @@ Evidencia el funcionamiento de las validaciones internas y los bloques `try-catc
 
 <img width="1137" height="651" alt="image" src="https://github.com/user-attachments/assets/5aa3d5dc-3f9f-4764-9f68-8499674c38e3" />
 
+# Sistema que se utilizó:
 
+Visual Studio (C# - Aplicación de consola)
 
 
 
