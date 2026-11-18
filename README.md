@@ -1,5 +1,10 @@
 # delgado-riveras-feliciano-clase-objetos
 
+# Integrantes del Grupo:
+
+* Jesica Delgado (2024-3909)
+* Yokairy Feliciano (2025-0626)
+* Yosemi Riveras Rincón (2024-1104)
 
 # ¿Qué hace el programa?
 
