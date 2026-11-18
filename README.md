@@ -45,7 +45,7 @@ Muestra la salida final en consola una vez completado el registro.
 
 # 3. Manejo de Errores y Validaciones
 
-Evidencia el funcionamiento de las validaciones internas y los bloques `try-catch` ante entradas incorrectas (como dejar el nombre en blanco, ingresar letras en campos numéricos o colocar precios negativos). El sistema muestra una alerta clara al usuario y vuelve a solicitar el dato sin que el programa se cierre inesperadamente.
+Evidencia el funcionamiento de las validaciones internas y los bloques `try-catch ante entradas incorrectas (como dejar el nombre en blanco, ingresar letras en campos numéricos o colocar precios negativos). El sistema muestra una alerta clara al usuario y vuelve a solicitar el dato sin que el programa se cierre inesperadamente.
 
 <img width="1137" height="651" alt="image" src="https://github.com/user-attachments/assets/5aa3d5dc-3f9f-4764-9f68-8499674c38e3" />
 
