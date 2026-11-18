@@ -29,6 +29,8 @@ Información detallada de los productos registrados, mensajes de error controlad
 
 # Capturas de Ejecución del Programa
 
+# 1. Registro Exitoso de los Productos:
+
 En esta captura se evidencia el ingreso correcto de los datos por teclado (nombre, precio y cantidad) para cada uno de los 3 productos solicitados, demostrando que las propiedades encapsuladas aceptan valores válidos sin interrupciones.
 
 <img width="677" height="680" alt="image" src="https://github.com/user-attachments/assets/583d7df4-65bc-48b5-a27a-8e35837f325e" />
